@@ -1,0 +1,37 @@
+#Benemérita Universidad Autónoma de Puebla
+##Facultad de Ciencias Físico Matemáticas
+###Licenciatura en Actuaría
+####Programación Actuarial III
+Primavera 2016
+
+Vera Guzmán Diego David
+
+201427419
+
+###Primer Semestre
+
+ * Programación Actuarial I - 8
+ * Intr a la Profesión Actuarial - 9
+ * DHPC - 10
+ * Conceptos de Cálculo - 7
+ * Matemáticas Básicas - 10
+ * Problemas de Mat. Básicas - 10
+ 
+###Segundo Semestre
+ 
+ * Teoría del Interes 1 - 8
+ * Microeconomia - 8
+ * Formación Humana y Social - 9
+ * Cálculo Diferencial - 9
+ * Teoría de Ecuaciones - 8
+ 
+###Tercer Semestre
+  
+ * Programación Actuarial II - 10
+ * Teoría del Interes 2 - 7
+ * Macroeconomia - 7
+ * Reg. Acad. y Cient: del Esp. - 9
+ * Cálculo Integral - 7
+ * Álgebra Lineal - 10
+ 
+ 
