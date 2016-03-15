@@ -1,7 +1,7 @@
 CamAl <- function(x,a){
-    secuencia <- vector("numeric",0)
+    secuencia <- vector("numeric",x)
     for (i in 1:x){
-        length(secuencia) <- length(secuencia) + 1
+        #length(secuencia) <- length(secuencia) + 1
         secuencia[i]<- a
         moneda <-runif(1)
         if(moneda<=0.5){
@@ -14,4 +14,5 @@ CamAl <- function(x,a){
     plot(secuencia,type="l")
 }
     #CamAl("Número de iteraciones", "Punto inicial")
+    CamAl(500,20)
     
