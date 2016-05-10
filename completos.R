@@ -8,7 +8,7 @@ completos <- function(directorio,id){
         
         if (id2<10){
             id3 <- paste(0,id2, sep="0")
-        }else if (id2<99){
+        }else if (id2<100){
             id3 <- paste(0,id2, sep="")
         }else {
             id3 <- id2
@@ -22,4 +22,4 @@ completos <- function(directorio,id){
     }
         data.frame(id, result)
 }
-completos("C:/Users/Diego/Documents/4° Semestre/Progrmación Act. III/Caso 1/specdata", 30:25)
+a <- completos("C:/Users/Diego/Documents/4° Semestre/Progrmación Act. III/Caso 1/specdata", 1:323)

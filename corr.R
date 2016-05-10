@@ -29,4 +29,5 @@ corr <- function(directorio,h){
     
     result
 }
-crz <- corr("C:/Users/Diego/Documents/4° Semestre/Progrmación Act. III/Caso 1/specdata", 150)
+crz <- corr("C:/Users/Diego/Documents/4° Semestre/Progrmación Act. III/Caso 1/specdata",0)
+
